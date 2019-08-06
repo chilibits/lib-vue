@@ -1,0 +1,11 @@
+{
+  "name": "@noodlesoup/vue",
+  "version": "0.0.1",
+  "description": "Vue library for Noodlesoup component ecosystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Poeta",
+  "license": "ISC"
+}
