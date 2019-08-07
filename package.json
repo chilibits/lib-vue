@@ -1,7 +1,7 @@
 {
-  "name": "@chilibits/vue",
+  "name": "@fabula/vue",
   "version": "0.0.1",
-  "description": "Vue library for ChiliBits component ecosystem",
+  "description": "Vue library for Fabula component ecosystem",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chilibits/lib-vue.git"
+    "url": "git+https://github.com/fabula-ui/lib-vue.git"
   },
   "bugs": {
-    "url": "https://github.com/chilibits/lib-vue/issues"
+    "url": "https://github.com/fabula-ui/lib-vue/issues"
   },
-  "homepage": "https://github.com/chilibits/lib-vue#readme"
+  "homepage": "https://github.com/fabula-ui/lib-vue#readme"
 }
